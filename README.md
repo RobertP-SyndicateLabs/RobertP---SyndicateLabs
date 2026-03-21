@@ -71,4 +71,5 @@ Security that lives in physics requires you to replicate physics.
 Building in public. Open to technical discussion, licensing inquiries, and pilot engagements.
 
 📧 wespaoletti@gmail.com
+
 🔗LinkedIn: https://www.linkedin.com/in/robert-p-145437a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
