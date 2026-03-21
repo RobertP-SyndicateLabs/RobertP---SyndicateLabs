@@ -1,6 +1,6 @@
 # Syndicate Labs
 
-Independent systems research. Solo builder. 14 months in.
+Independent systems research. Solo builder. 1.5 years in.
 
 I design and build novel infrastructure primitives — storage engines, attestation protocols, archival formats, and programming languages — from first principles, on a phone, in Termux.
 
