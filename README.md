@@ -22,7 +22,7 @@ Syndicate Labs explores a single long-term question:
 
 ---
 
-# 🧭 Research Map
+#  Research Map
 
 | Primitive | Project | Purpose |
 |---|---|---|
@@ -55,7 +55,7 @@ Rather than treating perspective as an emergent property...
 
 ---
 
-# 🚀 Active Public Projects
+#  Active Public Projects
 
 ---
 
@@ -161,7 +161,7 @@ Early stage, but architecturally intentional.
 
 ---
 
-# 🧠 Design Philosophy
+#  Design Philosophy
 
 ## Computation is physical.
 
@@ -175,7 +175,7 @@ Syndicate Labs treats timing, drift, entropy, state transitions, topology, and p
 
 ---
 
-# 🔭 Current Research Themes
+#  Current Research Themes
 
 | Area | Focus |
 |---|---|
@@ -190,7 +190,7 @@ Syndicate Labs treats timing, drift, entropy, state transitions, topology, and p
 
 ---
 
-# 🤝 Contact
+#  Contact
 
 Building in public.
 
